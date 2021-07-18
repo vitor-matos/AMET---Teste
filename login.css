@@ -1,0 +1,57 @@
+body{
+	background: #f55b02;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.div-all{
+	background: #ffffff;
+	border-radius: 10px;
+	max-width: 550px;
+	min-height: 88px;
+	text-align: center;
+	margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.content{
+    width: 500px;
+    min-height: 560px;    
+    margin: 0px auto;
+    position: relative;   
+}
+legend{
+    font-size: 28px;
+    color: #01992e;
+    padding: 2px 0 10px 0;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.but {
+    background-color:#01992e; /* Green */
+    border-radius: 3px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18 px;
+    margin-bottom: 30px;
+}
+.canto {
+    position: fixed;
+    top: 3px;
+    height: 300px;
+    width: 35px;
+    z-index: 100;
+    left: 10pt;
+    right: 10pt;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
